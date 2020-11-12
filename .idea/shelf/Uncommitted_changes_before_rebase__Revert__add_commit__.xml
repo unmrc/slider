@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_rebase_[Revert__add_commit_]" date="1605198913534" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Revert__add_commit_]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Revert &quot;add commit&quot;]" />
+  <binary>
+    <option name="BEFORE_PATH" value="dist/assets/css/style.css.map" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>

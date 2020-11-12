@@ -1,0 +1,26 @@
+//-/* Please do not use this import in production. You could download this font from here https://fontstorage.com/font/playfair-display */
+
+		name: slider
+		description: Markup for the slider block.
+		arguments:
+				- {object} props - Block properties.
+
+mixin slider(props = {})
+	.slider&attributes(attributes).swiper-container
+		.swiper-wrapper
+			.swiper-slide
+				h2 We craft meaningful digital ex-<br>periences
+				p Creating products and services that transform organiza-<br>tions for the digital economy
+				a(href="#") SEE OUR WORK
+			.swiper-slide
+				h2 We craft meaningful digital ex-<br>periences
+				p Creating products and services that transform organiza-<br>tions for the digital economy
+				a(href="#") SEE OUR WORK
+			.swiper-slide
+				h2 We craft meaningful digital ex-<br>periences
+				p Creating products and services that transform organiza-<br>tions for the digital economy
+				a(href="#") SEE OUR WORK
+		.swiper-pagination
+		.swiper-button-prev
+		.swiper-button-next
+		.swiper-scrollbar

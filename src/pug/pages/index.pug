@@ -1,0 +1,11 @@
+extends ../layouts/base.pug
+
+//- Page-Specific Block Imports
+include ../../blocks/slider/slider
+include ../../blocks/header/header
+
+block page
+    section
+        +header()
+        +slider()
+    

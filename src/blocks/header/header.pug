@@ -1,0 +1,17 @@
+//-
+    name: header
+    description: Markup for the header block.
+    arguments:
+        - {object} props - Block properties.
+
+mixin header(props = {})
+    .header&attributes(attributes)
+        .logo
+            a(href="#") Intro
+        ul.header-nav
+            li: a(href="#") Home
+            li: a(href="#") About
+            li: a(href="#") Services
+            li: a(href="#") Works
+            li: a(href="#") Events
+            li: a(href="#") Contact

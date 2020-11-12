@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:gh-pages" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec3d7afe-41b7-4fb6-9962-4c3641a25f6c" name="Default Changelist" comment="add commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <list id="c5aa6bb4-e64e-4604-9cb7-e1ff6fb6cebd" name="Revert &quot;add commit&quot;" comment="Revert &quot;add commit&quot;&#10;&#10;This reverts commit 07b27ee6" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="gh-pages" />
+                    <option name="lastUsedInstant" value="1605198761" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1605197470" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jJu85UFlwltKJ4QRqZiO3YAuni" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../12312/slider" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="C:\Users\ВАня\Desktop\practice\slider\node_modules\stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ВАня\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec3d7afe-41b7-4fb6-9962-4c3641a25f6c" name="Default Changelist" comment="" />
+      <created>1603534352870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603534352870</updated>
+      <workItem from="1603534353906" duration="5244000" />
+      <workItem from="1603541690498" duration="2219000" />
+      <workItem from="1603993066846" duration="180000" />
+      <workItem from="1603993372305" duration="1505000" />
+      <workItem from="1604237246224" duration="1275000" />
+      <workItem from="1604241481035" duration="1173000" />
+      <workItem from="1604243338810" duration="1754000" />
+      <workItem from="1605097587045" duration="472000" />
+      <workItem from="1605196045431" duration="228000" />
+      <workItem from="1605196285908" duration="28000" />
+      <workItem from="1605196324744" duration="651000" />
+      <workItem from="1605196985807" duration="1707000" />
+      <workItem from="1605198747457" duration="660000" />
+    </task>
+    <task id="LOCAL-00001" summary="add commit">
+      <created>1605097762535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605097762535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add commit">
+      <created>1605197726334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605197726334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add commit">
+      <created>1605198812339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605198812339</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="gh-pages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="396" key="#Stylelint" timestamp="1603536490410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="396" key="#Stylelint/0.0.1920.1040@0.0.1920.1040" timestamp="1603536490410" />
+    <state x="861" y="420" key="#Vim_Emulation" timestamp="1605199210364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="420" key="#Vim_Emulation/0.0.1920.1040@0.0.1920.1040" timestamp="1605199210364" />
+    <state x="574" y="0" key="CommitChangelistDialog2" timestamp="1605198899039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605198899039" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1605098059380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605098059380" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1605198558617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605198558617" />
+    <state x="836" y="422" key="Github.ShareDialog" timestamp="1604241538124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="422" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604241538124" />
+    <state x="776" y="143" key="Github.UntrackedFilesDialog" timestamp="1604241662843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="143" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604241662843" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1603534462415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603534462415" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1603534462415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603534462415" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1603534462415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603534462415" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1603534462415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603534462415" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605197401752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605197401752" />
+    <state x="807" y="428" key="VCS.ChangelistChooser" timestamp="1605198904877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="428" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605198904877" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605198835511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605198835511" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605198104257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605198104257" />
+    <state x="764" y="415" key="git4idea.ui.GitStashDialog" timestamp="1604242531164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="415" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604242531164" />
+    <state x="682" y="425" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605197592466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="425" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605197592466" />
+  </component>
+</project>

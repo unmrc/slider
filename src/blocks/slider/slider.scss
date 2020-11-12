@@ -1,0 +1,124 @@
+/**
+ * Styles for the slider block.
+ */
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+    margin-top: 142px;
+}
+
+.slider {
+    // Selector styles
+    &_swiper-container {
+	    width: 100%;
+    }
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 148px;
+}
+
+.swiper-slide h2 {
+    width: 1118px;
+    margin-bottom: 6px;
+    color: #ffffff;
+    font-family: "Playfair Display";
+    font-size: 80px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.4px;
+    white-space: nowrap;
+}
+
+.swiper-slide p {
+    width: 757px;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    margin-bottom: 37px;
+    white-space: nowrap;
+}
+
+.swiper-slide a {
+    display: inline-block;
+    padding: 17px 25px;
+    border-radius: 25px;
+    background-color: #eecd31;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.09px;
+    line-height: normal;
+    text-decoration: none;
+    margin-bottom: 25px;
+}
+
+.swiper-pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.swiper-pagination-bullet {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: white;
+}
+
+.swiper-button-prev {
+    background-image: url(../img/arrow_left.svg);
+    width: 23px;
+    height: 42px;
+    position: absolute;
+    left: 30px;
+    top: 57%;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.swiper-button-next {
+    background-image: url(../img/arrow_right.svg);
+    width: 23px;
+    height: 42px;
+    position: absolute;
+    right: 14px;
+    top: 57%;
+    z-index: 1;
+    cursor: pointer;
+}
+
+    // @media queries
+    // TODO: add code
+
+    // Pseudo-classes and pseudo-elements
+    // TODO: add code
+
+    // Nested selectors
+    // TODO: add code
+
+    // BEM elements
+    // TODO: add code
+
+    // BEM modifiers
+    // TODO: add code
+}
